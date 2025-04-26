@@ -90,16 +90,3 @@ The model provides the following metrics:
 - F1-Score
 - Confusion Matrix
 
-## ⚠️ Important Notes
-
-- The model is intended for research purposes only
-- Always consult healthcare professionals for medical decisions
-- Ensure data privacy and security when handling patient information
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-[Specify your license here] 
