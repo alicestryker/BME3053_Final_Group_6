@@ -89,4 +89,28 @@ The model provides the following metrics:
 - Recall
 - F1-Score
 - Confusion Matrix
+## 🔬 Synthetic Dataset
 
+This project utilizes synthetic data for development and testing purposes. Using synthetic data offers several advantages:
+
+1. **Privacy Protection**
+   - No real patient data is exposed
+   - Complies with healthcare data protection regulations
+   - Eliminates risk of personal information disclosure
+
+2. **Data Availability**
+   - Overcomes the scarcity of real medical datasets
+   - Allows for larger training datasets
+   - Enables testing with various disease patterns
+
+3. **Controlled Testing**
+   - Known ground truth for all cases
+   - Ability to test edge cases and rare conditions
+   - Perfect for model validation and testing
+
+4. **Educational Purpose**
+   - Ideal for learning and demonstration
+   - No ethical concerns regarding data usage
+   - Easy to share and reproduce results
+
+The synthetic dataset maintains the statistical properties and relationships found in real leukemia biomarker data while ensuring complete privacy and control over the data distribution.
