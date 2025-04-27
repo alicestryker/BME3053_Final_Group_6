@@ -1,6 +1,10 @@
 # BME3053_Final_Group_6
 This repository contains a machine learning model for detecting leukemia using biomarker data. The model implements multiple classifiers (Logistic Regression and Random Forest) to provide reliable predictions.
 
+## 🎥 Final Project YouTube Link
+
+[Watch the final project here](https://youtu.be/kq4cV2U281k?si=KindC__xuNWlLGjv)
+
 ## 📋 Prerequisites
 
 Before running the model, ensure you have the following installed:
